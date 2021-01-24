@@ -1,4 +1,4 @@
-     I love cherry country
+     I love cherry blossom country
      ( I hope one day I can go there ).
      And if you ask about my hobby. 
      i like listening to music,
