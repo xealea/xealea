@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/vcyz/vcyz/blob/main/OFFICE.png" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vcyz&&show_icons=true&&custom_title=🇮🇩 Latte Github Stats&&hide_border=boolean&&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vcyz&&show_icons=true&&custom_title=Vcyz Github Stats&&hide_border=boolean&&theme=tokyonight" />
 
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
