@@ -1,3 +1,10 @@
+     I love cherry country
+     ( I hope one day I can go there ).
+     And if you ask about my hobby. 
+     i like listening to music,
+     watching anime and something about programming
+
+<p align="center">
 <img align="center" src="https://github.com/vcyz/vcyz/blob/main/OFFICE.png" />
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcyz&&show_icons=true&&custom_title=Vcyz Github Stats&&hide_border=boolean&&theme=tokyonight" />
