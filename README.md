@@ -7,7 +7,7 @@
 <p align="center">
 <img align="center" src="https://github.com/vcyz/vcyz/blob/main/1611902419711.png" />
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vcyz&&show_icons=true&&custom_title=Vcyz Github Stats&&hide_border=boolean&&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vcyzteen&&show_icons=true&&custom_title=Vcyzteen Github Stats&&hide_border=boolean&&theme=tokyonight" />
 
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
