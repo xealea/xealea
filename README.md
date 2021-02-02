@@ -9,6 +9,12 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcyzteen&&show_icons=true&&custom_title=Vcyzteen Github Stats&&hide_border=boolean&&theme=tokyonight" />
 
+<img align="center" src="https://novatorem.vercel.app/api/spotify" />
+
+<p align="center">
+<img align="center" src="https://img.shields.io/github/followers/vcyzteen?color=pink&label=Followers&style=for-the-badge" />
+<img align="center" src="https://img.shields.io/github/stars/vcyzteen?affiliations=OWNER&color=pink&style=for-the-badge" />
+
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
