@@ -1,8 +1,10 @@
-     I love cherry blossom country
-     ( I hope one day I can go there ).
-     And if you ask about my hobby. 
-     i like listening to music,
-     watching anime and something about programming
+         _  __            ___    ___             
+       /\ \/\ \          /\_ \  /\_ \            
+       \ \ \_\ \     __  \//\ \ \//\ \     ___   
+        \ \  _  \  /'__`\  \ \ \  \ \ \   / __`\ 
+         \ \ \ \ \/\ \L\.\_ \_\ \_ \_\ \_/\ \L\ \
+          \ \_\ \_\ \__/.\_\/\____\/\____\ \____/
+           \/_/\/_/\/__/\/_/\/____/\/____/\/___/ 
 
 <p align="center">
 <img align="center" src="https://github.com/vcyz/vcyz/blob/main/1611902419711.png" />
