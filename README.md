@@ -15,6 +15,9 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcyzteen&&show_icons=true&&custom_title=Vcyzteen Github Stats&&hide_border=boolean&&theme=tokyonight" />
 
+<details>
+    <summary><b>Playing Music 🎶</b></summary>
+ 
 <img align="center" src="https://novatorem.vercel.app/api/spotify" />
 
 <p align="center">
