@@ -12,6 +12,8 @@
 ---------------------------
 <b> My Favorite Colors </b>
 
+<img width="60%" align="right" src="https://github.com/vcyzteen/vcyzteen/blob/main/hone.png">  
+
 * <b>Blue Sky</b>
 * <b>White</b>
 * <b>Gray</b>
