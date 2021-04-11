@@ -5,9 +5,9 @@
 
 ---------------------------
 
-> <p align="center">Heyo! Im iocode 16 y.o from yogyakarta</p>
-> <p align="center">Speaks Indonesian natively and English as a second language, currently learning Japanese</p>
-> <p align="center">Loves to learn anything new, And Loves eating with watching Anime</p>
+<p align="center">Heyo! Im iocode 16 y.o from yogyakarta</p>
+<p align="center">Speaks Indonesian natively and English as a second language, currently learning Japanese</p>
+<p align="center">Loves to learn anything new, And Loves eating with watching Anime</p>
 
 ---------------------------
 <b> My Favorite Colors </b>
