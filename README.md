@@ -11,9 +11,9 @@
 <p align="center">Loves to learn anything new, And Loves eating with watching Anime</p>
 
 ---------------------------
-<b> My Favorite Colors </b>
-
 <img width="60%" align="right" src="https://github.com/vcyzteen/vcyzteen/blob/main/IMG_20210411_125700.png">  
+
+<b> My Favorite Colors </b>
 
 * <b>Blue Sky</b>
 * <b>White</b>
