@@ -1,3 +1,4 @@
+
 <b><p align="center">I O C O D E</p></b>
 
 ---------------------------
@@ -12,7 +13,7 @@
 ---------------------------
 <b> My Favorite Colors </b>
 
-<img width="60%" align="right" src="https://github.com/vcyzteen/vcyzteen/blob/main/hone.png">  
+<img width="60%" align="right" src="https://github.com/vcyzteen/vcyzteen/blob/main/IMG_20210411_125700.png">  
 
 * <b>Blue Sky</b>
 * <b>White</b>
