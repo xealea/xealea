@@ -19,5 +19,7 @@
 * <b>White</b>
 * <b>Gray</b>
 * <b>Dark</b>
+* <b>Pink</b>
+* <b>Velvet</b>
 * <b>Monochrome</b>
 ----------------------------
