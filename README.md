@@ -1,4 +1,4 @@
-
+___________________________
 <b><p align="center">I O C O D E</p></b>
 
 ---------------------------
@@ -11,7 +11,9 @@
 <p align="center">Loves to learn anything new, And Loves eating with watching Anime</p>
 
 ---------------------------
-<img width="60%" align="right" src="https://github.com/vcyzteen/vcyzteen/blob/main/IMG_20210411_125700.png">  
+<img align="center" src="https://github.com/vcyzteen/vcyzteen/blob/main/IMG_20210413_234607.png">  
+
+---------------------------
 
 <b> My Favorite Colors </b>
 
