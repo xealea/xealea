@@ -26,4 +26,4 @@ ___________________________
 * <b>Monochrome</b>
 ----------------------------
 
-<b><p align="center">🔻 My Dotfiles 🔻</p></b>
+<b><p align="center">🔻Random Stuff🔻</p></b>
