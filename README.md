@@ -3,8 +3,8 @@
 ****Hi There (ツ)****
 
 **Contact Me:**
-* ![Telegram Badge](https://img.shields.io/badge/-Iocode-Vcyzteen?style=flat-square&logo=telegram&logoColor=#f9f9f9&link=https://t.me/iocode)
-* ![Gmail Badge](https://img.shields.io/badge/-vcyzscape@gmail-com?style=flat-square&logo=Gmail&logoColor=#f9f9f9&link=vcyzscape@gmail.com)
+* ***[![Telegram Badge](https://img.shields.io/badge/Chat%20on-Telegram-white.svg)](https://t.me/iocode)***
+* ***[![Gmail Badge](https://img.shields.io/badge/Chat%20on-Gmail-white.svg)](vcyzscape@gmail.com)***
 
 **About Me:**
 * *<h5><b>Student From Special Region Of Yogyakarta, Indonesia</b></h5>*
