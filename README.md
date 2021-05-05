@@ -8,3 +8,9 @@
 
 **About Me:**
 * *<h5><b>Student From Special Region Of Yogyakarta, Indonesia</b></h5>*
+
+**Fun Text**
+```c
+while(true) {
+  I.Love(you);
+}
