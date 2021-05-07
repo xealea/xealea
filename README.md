@@ -11,6 +11,10 @@
 
 **Follow Me:**
 * ***[![Devianart Badge](https://img.shields.io/badge/Follow%20Me%20On-Devianart-white.svg)](https://www.deviantart.com/iocode)***
+* ***[![Github Badge](https://img.shields.io/badge/Follow%20Me%20On-Github-white.svg)](https://github.com/vcyzteen)***
+
+**My Blog:**
+* ***[![Website Badge](https://img.shields.io/badge/Catch%20Me%20On-MyBlog-white.svg)](https://baka-pena.me)***
 
 **About Me:**
 * *<h5><b>Student From Special Region Of Yogyakarta, Indonesia</b></h5>*
