@@ -2,7 +2,7 @@
 
 <img src="https://contrib.rocks/image?repo=vcyzteen/vcyzteen" />
 
-<img align="right" alt="Im Bored" height=250 src="https://danbooru.donmai.us/data/original/98/fc/__original_drawn_by_menbou_menbow3v__98fc4ead617bc171ebe3bcf3613be7ad.png" />
+<img align="right" alt="Im Bored" height=250 src="https://github.com/vcyzteen/vcyzteen/blob/main/1620364799088.png" />
 
 **Contact Me:**
 * ***[![Telegram Badge](https://img.shields.io/badge/Chat%20on-Telegram-white.svg)](https://t.me/iocode)***
