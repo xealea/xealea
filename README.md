@@ -25,8 +25,4 @@ while(true) {
   I.Love(you);
 }
 ```
-
-**Every Time Ricing XD**
-<img align="center" alt="Im Bored" src="https://github.com/vcyzteen/vcyzteen/blob/main/IMG_20210511_035910.png" />
-
 -------------------------
