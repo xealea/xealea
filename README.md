@@ -27,4 +27,6 @@ while(true) {
 ```
 
 **Every Time Ricing XD**
-<img align="right" alt="Im Bored" height=250 src="https://github.com/vcyzteen/vcyzteen/blob/main/IMG_20210511_035910.png" />
+<img align="center" alt="Im Bored" src="https://github.com/vcyzteen/vcyzteen/blob/main/IMG_20210511_035910.png" />
+
+-------------------------
