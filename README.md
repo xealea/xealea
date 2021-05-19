@@ -1,7 +1,5 @@
 ****Hi There (ツ) Im A Vixel****
 
-<img src="https://contrib.rocks/image?repo=vcyzteen/vcyzteen" />
-
 <img align="right" alt="Im Bored" height=250 src="https://github.com/vcyzteen/vcyzteen/blob/main/1620364799088.png" />
 
 **Contact Me:**
@@ -18,11 +16,3 @@
 
 **About Me:**
 * *<h5><b>Student From Special Region Of Yogyakarta, Indonesia</b></h5>*
-
-**Fun Text:**
-```c
-while(true) {
-  I.Love(you);
-}
-```
--------------------------
