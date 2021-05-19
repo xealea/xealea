@@ -1,6 +1,6 @@
 ****Hi There (ツ) Im A Vixel****
 
-<img align="right" alt="Im Bored" height=250 src="https://github.com/vcyzteen/vcyzteen/blob/main/1620364799088.png" />
+<img align="right" alt="Im Bored" height=250 src="https://danbooru.donmai.us/data/original/1a/c6/__original_drawn_by_migihidari_puwako__1ac6da0637cce7cba66cd981da13f93f.png" />
 
 **Contact Me:**
 * ***[![Telegram Badge](https://img.shields.io/badge/Chat%20on-Telegram-white.svg)](https://t.me/iocode)***
