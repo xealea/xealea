@@ -3,7 +3,6 @@
 <img align="right" alt="Im Bored" height=250 src="https://danbooru.donmai.us/data/original/1a/c6/__original_drawn_by_migihidari_puwako__1ac6da0637cce7cba66cd981da13f93f.png" />
 
 **Contact Me:**
-* ***[![Telegram Badge](https://img.shields.io/badge/Chat%20on-Telegram-white.svg)](https://t.me/iocode)***
 * ***[![Reddit Badge](https://img.shields.io/badge/Chat%20on-Reddit-white.svg)](https://www.reddit.com/user/vcyzteen/)***
 * ***[![Gmail Badge](https://img.shields.io/badge/Chat%20on-Gmail-white.svg)](vcyzscape@gmail.com)***
 
