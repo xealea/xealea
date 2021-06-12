@@ -1,6 +1,6 @@
 ****Hi There (ツ) Im A Vixel****
 
-<img align="right" alt="Im Bored" width=150 height=150 src="https://cdn.donmai.us/original/08/75/__nakano_azusa_k_on_drawn_by_kohinata_sora__0875b981b2b1953c9e2d2f5edd94eddb.gif" />
+<img align="right" alt="Im Bored" width=100 height=300 src="https://github.com/vcyzteen/vcyzteen/blob/main/IMG_20210613_000414.png" />
 
 * **Contact Me:**
 
