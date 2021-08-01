@@ -8,3 +8,4 @@
 <img alt="undefined" src="https://img.shields.io/badge/java-white?style=for-the-badge"></a>
 <img alt="undefined" src="https://img.shields.io/badge/html-white?style=for-the-badge"></a>
 <img alt="undefined" src="https://img.shields.io/badge/css-white?style=for-the-badge"></a>
+<img alt="undefined" src="https://img.shields.io/badge/js-white?style=for-the-badge"></a>
