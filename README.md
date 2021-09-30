@@ -1,6 +1,6 @@
 <p align="center">
 <kbd>
-  <img src="https://i.postimg.cc/vmdyXtwT/IMG-20211001-004130.png" width="400px" height="" />
+  <img src="https://i.postimg.cc/vmdyXtwT/IMG-20211001-004130.png" width="850px" height="" />
 </kbd>
 
 - **Docker**
