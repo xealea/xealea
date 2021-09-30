@@ -23,3 +23,10 @@
     <img alt="undefined" src="https://img.shields.io/badge/css-color?color=ACB0D0&style=for-the-badge&logo=css3&labelColor=1A1B26"></a>
     <img alt="undefined" src="https://img.shields.io/badge/js-color?color=ACB0D0&style=for-the-badge&logo=JavaScript&labelColor=1A1B26"></a>
     <img alt="undefined" src="https://img.shields.io/badge/c-color?color=ACB0D0&style=for-the-badge&logo=C&labelColor=1A1B26"></a>
+
+    - **Buy Me Coffe**
+      <details>
+      <summary><strong>buy me some coffe here</strong></summary>
+
+      <p align="center">
+      <a href='https://postimg.cc/NKWPNwdL' target='_blank'><img src='https://i.postimg.cc/NKWPNwdL/download-1.png' border='0' alt='download-1'/></a>
