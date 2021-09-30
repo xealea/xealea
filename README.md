@@ -1,4 +1,7 @@
-[![IMG-20210801-125744.png](https://i.postimg.cc/J0wsB4BK/IMG-20210801-125744.png)](https://postimg.cc/zbjzsN7R)
+<p align="center">
+<kbd>
+  <img src="https://i.postimg.cc/vmdyXtwT/IMG-20211001-004130.png" width="400px" height="" />
+</kbd>
 
 - **Docker**
   <details>
@@ -6,7 +9,7 @@
   
   <p align="center">
 
-  <img alt="undefined" src="https://img.shields.io/badge/docker-vcyzteen/bakaburn:latest-white?style=for-the-badge"></a>
+  <img alt="undefined" src="https://img.shields.io/badge/docker-vcyzteen/bakaburn:latest-color?color=ACB0D0&style=for-the-badge&labelColor=1A1B26&logo=docker"></a>
 
   - **Learning**
     <details>
@@ -14,9 +17,9 @@
   
     <p align="center">
 
-    <img alt="undefined" src="https://img.shields.io/badge/python-white?style=for-the-badge"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/java-white?style=for-the-badge"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/html-white?style=for-the-badge"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/css-white?style=for-the-badge"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/js-white?style=for-the-badge"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/c++-white?style=for-the-badge"></a>
+    <img alt="undefined" src="https://img.shields.io/badge/python-color?color=ACB0D0&style=for-the-badge&logo=python&labelColor=1A1B26"></a>
+    <img alt="undefined" src="https://img.shields.io/badge/java-color?color=ACB0D0&style=for-the-badge&logo=java&labelColor=1A1B26"></a>
+    <img alt="undefined" src="https://img.shields.io/badge/html-color?color=ACB0D0&style=for-the-badge&logo=html5&labelColor=1A1B26"></a>
+    <img alt="undefined" src="https://img.shields.io/badge/css-color?color=ACB0D0&style=for-the-badge&logo=css3&labelColor=1A1B26"></a>
+    <img alt="undefined" src="https://img.shields.io/badge/js-color?color=ACB0D0&style=for-the-badge&logo=JavaScript&labelColor=1A1B26"></a>
+    <img alt="undefined" src="https://img.shields.io/badge/c-color?color=ACB0D0&style=for-the-badge&logo=C&labelColor=1A1B26"></a>
