@@ -26,8 +26,9 @@
 
     - **Buy Me Coffe**
       <details>
-      <summary><strong>buy me some coffe here</strong></summary>
+      <summary><strong>here my statistic data</strong></summary>
 
       <p align="center">
       
-      <a href='https://postimg.cc/NKWPNwdL' target='_blank'><img src='https://i.postimg.cc/NKWPNwdL/download-1.png' border='0' alt='download-1'/></a>
+      <a href='https://postimg.cc/NKWPNwdL' target='_blank'><img align="left" src='https://i.postimg.cc/NKWPNwdL/download-1.png' border='0' alt='download-1'/></a>
+      <img src="https://github-readme-stats.vercel.app/api?username=vcyzteen&&show_icons=true&&custom_title=Vcyzteen Github Stats&&hide_border=boolean&&theme=tokyonight" />
