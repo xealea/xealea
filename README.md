@@ -1,6 +1,6 @@
 <p align="center">
 <kbd>
-  <img src="https://i.postimg.cc/vmdyXtwT/IMG-20211001-004130.png" width="850px" height="" />
+  <img src="https://i.postimg.cc/7Y0rXz24/IMG-20211001-102814.png" width="850px" height="" />
 </kbd>
 
 - **About Me**
