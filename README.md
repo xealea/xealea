@@ -1,9 +1,38 @@
 <p align="center">
 <kbd>
+<br>-----
+  Nice To Meet You -----
+<br>
+<br>
   <img src="https://i.postimg.cc/7Y0rXz24/IMG-20211001-102814.png" width="850px" height="" />
+<br>
+<br>
+He is a student from Yogyakarta who comes from Sleman, who lives in Bantul City and is a student at SMA N 1 KRETEK. he likes to communicate he likes to learn new things and he likes anything about technology. he likes to make an indeterminate experiment here
+<br>
+( github ) making it open source. and he is not smart but he knows how to respect to others person
+<br>
+<br>
 </kbd>
 
 - **About Me**
+  <details>
+  <summary><strong>talking about personal</strong></summary>
+
+
+  * 🍜 Eating
+
+  * 🎨 Editing
+
+  * 📖 Reading
+
+  * 💻 Linux Users
+
+  * 🔓 Opensources
+
+  * 🕘 Wacthing Anime
+
+
+- **Misc Me**
   <details>
   <summary><strong>see what docker vcyzteen use</strong></summary>
   
@@ -30,5 +59,4 @@
 
       <p align="center">
       
-      <a href='https://postimg.cc/NKWPNwdL' target='_blank'><img align="left" src='https://i.postimg.cc/NKWPNwdL/download-1.png' border='0' alt='download-1'/></a>
       <img src="https://github-readme-stats.vercel.app/api?username=vcyzteen&&show_icons=true&&custom_title=Vcyzteen Github Stats&&hide_border=boolean&&theme=tokyonight" />
