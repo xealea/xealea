@@ -4,7 +4,7 @@
   Nice To Meet You -----
 <br>
 <br>
-  <img src="https://i.postimg.cc/7Y0rXz24/IMG-20211001-102814.png" width="850px" height="" />
+  <img src="https://i.postimg.cc/3W51VGq3/1634917240176.png" width="850px" height="" />
 <br>
 <br>
 He is a student from Yogyakarta who comes from Sleman, who lives in Bantul City and is a student at SMA N 1 KRETEK. he likes to communicate he likes to learn new things and he likes anything about technology. he likes to make an indeterminate experiment here
