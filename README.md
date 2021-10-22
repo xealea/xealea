@@ -53,7 +53,7 @@ He is a student from Yogyakarta who comes from Sleman, who lives in Bantul City 
     <img alt="undefined" src="https://img.shields.io/badge/js-color?color=ACB0D0&style=for-the-badge&logo=JavaScript&labelColor=1A1B26"></a>
     <img alt="undefined" src="https://img.shields.io/badge/c-color?color=ACB0D0&style=for-the-badge&logo=C&labelColor=1A1B26"></a>
 
-    - **Buy Me Coffe**
+    - **Stats Data**
       <details>
       <summary><strong>here my statistic data</strong></summary>
 
