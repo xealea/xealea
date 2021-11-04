@@ -30,6 +30,7 @@ He is a student from Yogyakarta who comes from Sleman, who lives in Bantul City 
   * 🔓 Opensources
 
   * 🕘 Wacthing Anime
+     * 💮 Love Genre Yuri
 
 
 - **Misc Me**
