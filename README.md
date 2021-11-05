@@ -1,56 +1,28 @@
-<p align="center">
-<kbd>
-<br>-----
-  Nice To Meet You -----
-<br>
-<br>
-  <img src="https://i.postimg.cc/3W51VGq3/1634917240176.png" width="850px" height="" />
-</kbd>
+![Banner Image](banner.png)
 
-- **About Me**
-  <details>
-  <summary><strong>talking about personal</strong></summary>
+### Hi there 👋
 
+I am **Vixel View**. I am student and designer have experienced in **Android Developer And Android Kernel Developer**. **Have Basic Skilled in Docker, Html, Python, Kotlin, Java, Css, Js, and C.** sometimes I'm a lazy person who is told to do a job I don't like. I like hitori bochi and i am type person thinking first what i need to do in my mind before do it. so basically I'm a person who doesn't do anything if I don't have an idea. **Proudly from Yogyakarta, Indonesia 🇮🇩**.
 
-  * 🍜 Eating
+<img alt="undefined" src="https://img.shields.io/badge/python-color?color=ACB0D0&style=for-the-badge&logo=python&labelColor=1A1B26" width="70"></a>
+<img alt="undefined" src="https://img.shields.io/badge/kotlin-color?color=ACB0D0&style=for-the-badge&logo=kotlin&labelColor=1A1B26" width="70"></a>
+<img alt="undefined" src="https://img.shields.io/badge/java-color?color=ACB0D0&style=for-the-badge&logo=java&labelColor=1A1B26" width="62"></a>
+<img alt="undefined" src="https://img.shields.io/badge/html-color?color=ACB0D0&style=for-the-badge&logo=html5&labelColor=1A1B26" width="66"></a>
+<img alt="undefined" src="https://img.shields.io/badge/css-color?color=ACB0D0&style=for-the-badge&logo=css3&labelColor=1A1B26" width="58"></a>
+<img alt="undefined" src="https://img.shields.io/badge/js-color?color=ACB0D0&style=for-the-badge&logo=JavaScript&labelColor=1A1B26" width="52"></a>
+<img alt="undefined" src="https://img.shields.io/badge/c-color?color=ACB0D0&style=for-the-badge&logo=C&labelColor=1A1B26" width="48"></a>
 
-  * 🎨 Editing
+---
 
-  * 📖 Reading
+#### 💻 Check out what I'm currently working on:
+ * [vcyzteen/dotclean](https://github.com/vcyzteen/dotclean.git) | Clean Dotfiles
+ * [vcyzteen/dotbaka](https://github.com/vcyzteen/dotbaka.git) | Complete Dotfiles
+ * [vcyzteen/linux](https://github.com/vcyzteen/linux.git) | Android Linux Kernel
 
-  * 💻 Linux Users
+#### 📬 How to reach me:
+ * Website: [baka-pena.me](https://baka-pena.me)
+ * Github: [vcyzteen](https://github.com/vcyzteen)
+ * Email: vcyzscape@gmail.com
 
-  * 🔓 Opensources
-
-  * 🕘 Wacthing Anime
-     * 💮 Love Genre Yuri
-
-
-- **Misc Me**
-  <details>
-  <summary><strong>see what docker vcyzteen use</strong></summary>
-  
-  <p align="center">
-
-  <img alt="undefined" src="https://img.shields.io/badge/docker-vcyzteen/nekopunchy:poi-color?color=ACB0D0&style=for-the-badge&labelColor=1A1B26&logo=docker"></a>
-
-  - **Learning**
-    <details>
-    <summary><strong>see what vcyzteen learn</strong></summary>
-  
-    <p align="center">
-
-    <img alt="undefined" src="https://img.shields.io/badge/python-color?color=ACB0D0&style=for-the-badge&logo=python&labelColor=1A1B26"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/java-color?color=ACB0D0&style=for-the-badge&logo=java&labelColor=1A1B26"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/html-color?color=ACB0D0&style=for-the-badge&logo=html5&labelColor=1A1B26"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/css-color?color=ACB0D0&style=for-the-badge&logo=css3&labelColor=1A1B26"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/js-color?color=ACB0D0&style=for-the-badge&logo=JavaScript&labelColor=1A1B26"></a>
-    <img alt="undefined" src="https://img.shields.io/badge/c-color?color=ACB0D0&style=for-the-badge&logo=C&labelColor=1A1B26"></a>
-
-    - **Stats Data**
-      <details>
-      <summary><strong>here my statistic data</strong></summary>
-
-      <p align="center">
-      
-      <img src="https://github-readme-stats.vercel.app/api?username=vcyzteen&&show_icons=true&&custom_title=Vcyzteen Github Stats&&hide_border=boolean&&theme=tokyonight" />
+#### 📈 My statistics data:
+![stat](https://github-readme-stats.vercel.app/api?username=vcyzteen&&show_icons=true&&custom_title=Vcyzteen-Github-Stats&&hide_border=boolean&&theme=tokyonight)
