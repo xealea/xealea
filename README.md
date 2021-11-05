@@ -1,4 +1,6 @@
-![Banner Image](banner.png)
+<kbd>
+<img src="banner.png" />
+</kbd>
 
 ### Hi there 👋
 
