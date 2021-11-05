@@ -5,13 +5,6 @@
 <br>
 <br>
   <img src="https://i.postimg.cc/3W51VGq3/1634917240176.png" width="850px" height="" />
-<br>
-<br>
-He is a student from Yogyakarta who comes from Sleman, who lives in Bantul City and is a student at SMA N 1 KRETEK. he likes to communicate he likes to learn new things and he likes anything about technology. he likes to make an indeterminate experiment here
-<br>
-( github ) making it open source. and he is not smart but he knows how to respect to others person
-<br>
-<br>
 </kbd>
 
 - **About Me**
