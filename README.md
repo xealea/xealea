@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am **Vixel View**. I am student and designer have experienced in **Android Developer And Android Kernel Developer**. **Have Basic Skilled in Docker, Html, Python, Kotlin, Java, Css, Js, and C.** sometimes I'm a lazy person who is told to do a job I don't like. I like hitori bochi and i am type person thinking first what i need to do in my mind before do it. so basically I'm a person who doesn't do anything if I don't have an idea. **Proudly from Yogyakarta, Indonesia 🇮🇩**.
+I am **Vixel View**. I am student and designer have experienced in **Android Developer** And **Android Kernel Developer**. **Have Basic Skilled in Docker, Html, Python, Kotlin, Java, Css, Js, and C.** sometimes I'm a lazy person who is told to do a job I don't like. I like hitori bochi and i am type person thinking first what i need to do in my mind before do it. so basically **I'm a person who doesn't do anything if I don't have any idea**. Where my from? **Proudly from [Yogyakarta](https://g.co/kgs/MHRU7Y), Indonesia 🇮🇩**.
 
 <img alt="undefined" src="https://img.shields.io/badge/python-color?color=ACB0D0&style=for-the-badge&logo=python&labelColor=1A1B26" width="70"></a>
 <img alt="undefined" src="https://img.shields.io/badge/kotlin-color?color=ACB0D0&style=for-the-badge&logo=kotlin&labelColor=1A1B26" width="70"></a>
