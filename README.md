@@ -28,7 +28,7 @@ I am **Vixel View**. Who student have experienced in **Android Kernel Developer*
  * Merged Git Files: [sublime-merge](https://www.sublimemerge.com)
 
 #### 📬 How to reach me:
- * Website: [baka-pena.me](https://baka-pena.me)
+ * Website: [vcyz@github.io](https://vcyzteen.github.io)
  * Github: [git@vcyzteen](https://github.com/vcyzteen)
  * Email: vcyzscape@gmail.com
 
