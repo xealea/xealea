@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am **Vixel View**. Who student have experienced in **Android Kernel Developer**. **Have Basic Skilled in Docker, Html, Python, Kotlin, Java, Css, Js, and C.** Where my from? **Proudly from [Yogyakarta](https://g.co/kgs/MHRU7Y), [Indonesia](https://www.google.com/maps/place/Indonesia/@-2.44565,117.8888,3z/data=!4m2!3m1!1s0x2c4c07d7496404b7:0xe37b4de71badf485) 🇮🇩**.
+I am **Vixel View**. Who student have experienced in **Android Kernel Developer**. **Have Basic Skilled in Docker, Html, Python, Kotlin, Java, Css, Js, and C.** Where my from? **Proudly from [Daerah Istimewa Yogyakarta](https://g.co/kgs/MHRU7Y), [Indonesia](https://www.google.com/maps/place/Indonesia/@-2.44565,117.8888,3z/data=!4m2!3m1!1s0x2c4c07d7496404b7:0xe37b4de71badf485) 🇮🇩**.
 
 <img alt="undefined" src="https://img.shields.io/badge/python-color?color=ACB0D0&style=for-the-badge&logo=python&labelColor=1A1B26" width="70"></a>
 <img alt="undefined" src="https://img.shields.io/badge/kotlin-color?color=ACB0D0&style=for-the-badge&logo=kotlin&labelColor=1A1B26" width="70"></a>
