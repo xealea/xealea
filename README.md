@@ -18,16 +18,17 @@ I Am **Vixel View** 17 Year Old. Who student have experienced in **Android Kerne
  * Clean dotfiles: [dotclean](https://github.com/vcyzteen/dotclean.git)
  * Dotfiles complete: [dotbaka](https://github.com/vcyzteen/dotbaka.git)
  * Android Linux Kernel: [linux-4.4](https://github.com/vcyzteen/linux.git)
+ * Experimental Linux kernel: [rodjogdam](https://github.com/vcyzteen/rodjogdam.git)
 
 #### 🧰 Equipment and os system that I use:
  * Os Linux: [voidlinux](https://voidlinux.org) | [debian](https://debian.org)
  * Code Editor CLI: [neovim](https://neovim.io) | [vim](http://www.vim.org)
  * Code Editor IDE: [vscode](https://code.visualstudio.com) | [geany](https://www.geany.org)
- * Merged Git Files: [sublime-merge](https://www.sublimemerge.com)
+ * Merged Git Client: [sublime-merge](https://www.sublimemerge.com)
 
 #### 📬 How to reach me:
  * Website: [vcyz@github.io](https://vcyzteen.github.io)
- * Github: [git@vcyzteen](https://github.com/vcyzteen)
+ * Github: [github@vcyzteen](https://github.com/vcyzteen)
  * Email: vcyzscape@gmail.com
 
 #### 📈 My statistics data:
