@@ -1,5 +1,5 @@
 <kbd>
-<img src="https://avatars.githubusercontent.com/u/73871195?v=4" />
+<img src="banner.png" />
 </kbd>
 
 ### Hi there 👋
@@ -14,6 +14,8 @@ I Am **Vixel View** 17 Year Old. Who student have experienced in **Android Kerne
     <summary><b>hey what are doing here... 👉👈
              <br>do you want to know more about me 😝</b></summary>
 
+---
+    
 #### 💻 Check out what I'm currently working on:
  * Clean dotfiles: [dotclean](https://github.com/vcyzteen/dotclean.git)
  * Dotfiles complete: [dotbaka](https://github.com/vcyzteen/dotbaka.git)
