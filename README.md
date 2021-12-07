@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I Am **Vixel View** 17 Year Old. Who student have experienced in **Android Kernel Developer**. **Have Basic Skilled in Docker, and C.** I like customization. whatever I know, when i know what i do can be customization/modified then i will modify it. Where my from? **Proudly from [Daerah Istimewa Yogyakarta](https://g.co/kgs/MHRU7Y), [Indonesia](https://www.google.com/maps/place/Indonesia/@-2.44565,117.8888,3z/data=!4m2!3m1!1s0x2c4c07d7496404b7:0xe37b4de71badf485) 🇮🇩**.
+I Am **vcyzteen**. Who student have experienced in **Android Kernel Developer**. **Have Basic Skilled in Docker, and C.** I like customization. whatever I know, when i know what i do can be customization/modified then i will modify it. Where my from? **Proudly from [Daerah Istimewa Yogyakarta](https://g.co/kgs/MHRU7Y), [Indonesia](https://www.google.com/maps/place/Indonesia/@-2.44565,117.8888,3z/data=!4m2!3m1!1s0x2c4c07d7496404b7:0xe37b4de71badf485) 🇮🇩**.
 
 <img alt="undefined" src="https://img.shields.io/badge/docker-color?color=ACB0D0&style=for-the-badge&logo=docker&labelColor=1A1B26" /></a>
 <img alt="undefined" src="https://img.shields.io/badge/c-color?color=ACB0D0&style=for-the-badge&logo=C&labelColor=1A1B26" /></a>
