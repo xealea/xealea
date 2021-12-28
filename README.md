@@ -1,5 +1,5 @@
 <kbd>
-<img src="banner.png" />
+<img src="https://i.postimg.cc/nhGVDJjQ/2021-12-28-19-32-59-screenshot.png" />
 </kbd>
 
 ### Hi there 👋
