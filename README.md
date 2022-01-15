@@ -23,7 +23,7 @@ I Am **vcyzteen**. Who student have experienced in **Android Kernel Developer**.
  * Experimental Linux kernel: [rodjogdam](https://github.com/vcyzteen/rodjogdam.git)
 
 #### 🧰 Equipment and os system that I use:
- * Os Linux: [voidlinux](https://voidlinux.org) | [debian](https://debian.org)
+ * Os Linux: [voidlinux](https://voidlinux.org) | [nixos](https://nixos.org)
  * Code Editor CLI: [neovim](https://neovim.io) | [vim](http://www.vim.org)
  * Code Editor IDE: [vscode](https://code.visualstudio.com) | [geany](https://www.geany.org)
  * Merged Git Client: [sublime-merge](https://www.sublimemerge.com)
