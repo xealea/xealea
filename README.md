@@ -32,6 +32,7 @@ I Am **vcyzteen**. Who student have experienced in **Android Kernel Developer**.
  * Website: [vcyz@github.io](https://vcyzteen.github.io)
  * Github: [github@vcyzteen](https://github.com/vcyzteen)
  * Email: vcyzscape@gmail.com
+ * XDA: [xda@vcyzteen](https://forum.xda-developers.com/m/vcyzteen.11981389)
 
 #### 📈 My statistics data:
 ![stat](https://github-readme-stats.vercel.app/api?username=vcyzteen&&show_icons=true&&custom_title=Vcyzteen-Github-Stats&&hide_border=boolean&&theme=tokyonight)
