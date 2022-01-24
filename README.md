@@ -11,7 +11,7 @@
   * Void Linux have [xbps](https://github.com/void-linux/xbps) package and [xbps-src](https://github.com/void-linux/void-packages). Is the native system package manager, written from scratch with a 2-clause BSD license.
   * Void Linux supports both the [musl](https://musl.libc.org) and [GNU libc](https://www.gnu.org/software/libc) implementations, patching incompatible software when necessary and working with upstream developers to improve the correctness and portability of their projects.
 
-***Why am I writing like this?*** because I am amazed by voidlinux because this distro is very light and very fast. For daily use there is no problem. And for you guys I recommend this distro because it's very LEGIT
+***Why am I writing like this?*** because I am amazed by voidlinux because this distro is very light and very fast. For daily use there is no problem. And for you guys I recommend this distro because it's very LEGIT. In ***My Opinion***
 
 ---
 <details>
