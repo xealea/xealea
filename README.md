@@ -1,18 +1,21 @@
 <kbd>
-<img src="https://i.postimg.cc/wxG33s27/IMG-20220121-131811.png" />
+<img src="https://i.postimg.cc/nrnGBQSM/IMG-20220124-145930.png" />
 </kbd>
 
-### Hi there 👋
+### Wellcome here @user 👋
 
-I Am **vcyzteen**. Who student have experienced in **Android Kernel Developer**. **Have Basic Skilled in Docker, and C.** I like customization. whatever I know, when i know what i do can be customization/modified then i will modify it. Where my from? **Proudly from [Daerah Istimewa Yogyakarta](https://g.co/kgs/MHRU7Y), [Indonesia](https://www.google.com/maps/place/Indonesia/@-2.44565,117.8888,3z/data=!4m2!3m1!1s0x2c4c07d7496404b7:0xe37b4de71badf485) 🇮🇩**.
+***Why [Voidlinux](https://voidlinux.org)?***. Good question. Why did I choose void? That because
+  * Void Linux is an independent distribution, developed entirely by volunteers.
+  * Void use [runit](http://smarden.org/runit) as the init system and service supervisor. the main thing is runit is a simple
+  * Void focuses on stability, rather than on being bleeding-edge. Install once, update routinely and safely
+  * Void Linux have [xbps](https://github.com/void-linux/xbps) package and [xbps-src](https://github.com/void-linux/void-packages). Is the native system package manager, written from scratch with a 2-clause BSD license.
+  * Void Linux supports both the [musl](https://musl.libc.org) and [GNU libc](https://www.gnu.org/software/libc) implementations, patching incompatible software when necessary and working with upstream developers to improve the correctness and portability of their projects.
 
-<img alt="undefined" src="https://img.shields.io/badge/docker-color?color=ACB0D0&style=for-the-badge&logo=docker&labelColor=1A1B26" /></a>
-<img alt="undefined" src="https://img.shields.io/badge/c-color?color=ACB0D0&style=for-the-badge&logo=C&labelColor=1A1B26" /></a>
+***Why am I writing like this?*** because I am amazed by voidlinux because this distro is very light and very fast. For daily use there is no problem. And for you guys I recommend this distro because it's very LEGIT
 
 ---
 <details>
-    <summary><b>hey what are doing here... 👉👈
-             <br>do you want to know more about me 😝</b></summary>
+    <summary><b>more about me</b></summary>
 
 ---
     
