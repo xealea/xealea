@@ -3,21 +3,6 @@
 </kbd>
 
 ### Wellcome here `@user` 👋
-
-***Why [`Voidlinux`](https://voidlinux.org)?***. Good question. Why did I choose void? That because
-  * Void Linux is an independent distribution, developed entirely by volunteers.
-  * Void use [`runit`](http://smarden.org/runit) as the init system and service supervisor. the main thing is runit is a simple
-  * Void focuses on stability, rather than on being bleeding-edge. Install once, update routinely and safely
-  * Void Linux have [`xbps`](https://github.com/void-linux/xbps) package and [`xbps-src`](https://github.com/void-linux/void-packages). Is the native system package manager, written from scratch with a 2-clause BSD license.
-  * Void Linux supports both the [`musl`](https://musl.libc.org) and [`GNU libc`](https://www.gnu.org/software/libc) implementations, patching incompatible software when necessary and working with upstream developers to improve the correctness and portability of their projects.
-
-***Why am I writing like this?*** because I am amazed by voidlinux because this distro is very light and very fast. For daily use there is no problem. And for you guys I recommend this distro because it's very LEGIT. In ***My Opinion***
-
----
-<details>
-    <summary><b>more about me</b></summary>
-
----
     
 #### 💻 Check out what I'm currently working on:
  * Clean dotfiles: [`dotclean`](https://github.com/vcyzteen/dotclean.git)
