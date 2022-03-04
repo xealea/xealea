@@ -7,7 +7,7 @@
 #### 💻 Check out what I'm currently working on:
  * Clean dotfiles: [`dotclean`](https://github.com/vcyzteen/dotclean.git)
  * Dotfiles complete: [`dotbaka`](https://github.com/vcyzteen/dotbaka.git)
- * Android Linux Kernel: [`linux-4.4`](https://github.com/vcyzteen/linux.git)
+ * Android Linux Kernel: [`moonafic`](https://github.com/vcyzteen/linux.git)
  * Experimental Linux kernel: [`rodjogdam`](https://github.com/vcyzteen/rodjogdam.git)
 
 #### 🧰 Equipment and os system that I use:
