@@ -24,3 +24,8 @@
 
 #### 📈 My statistics data:
 ![`stat`](https://github-readme-stats.vercel.app/api?username=vcyzteen&&show_icons=true&&custom_title=Vcyzteen-Github-Stats&&hide_border=boolean&&theme=tokyonight)
+
+#### 🔑 GPG
+```bash
+curl -s https://github.com/vcyzteen.gpg | gpg --import
+```
