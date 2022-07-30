@@ -8,5 +8,5 @@ curl -s https://github.com/vcyzteen.gpg | gpg --import
 ```
 ##### <p align="center">MY DOCKER | DEBIAN</p>
 ```bash
-docker pull vcyzteen/minimal:latest
+docker pull vcyzteen/xea:x
 ```
