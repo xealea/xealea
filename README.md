@@ -1,5 +1,6 @@
 <kbd>
 <img src="https://i.postimg.cc/htG4BL5g/IMG-20220916-234444.png" />
+</kbd>
 
 <b><p align="center">MY GITPOD CODE | SERVER</p></b>
 
@@ -18,4 +19,3 @@ curl -s https://github.com/xealea.gpg | gpg --import
 ```bash
 docker pull xealea/xea:01
 ```
-</kbd>
