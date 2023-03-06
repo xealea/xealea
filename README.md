@@ -2,20 +2,34 @@
 <img src="https://i.postimg.cc/htG4BL5g/IMG-20220916-234444.png" />
 </kbd>
 
-<b><p align="center">MY GITPOD CODE | SERVER</p></b>
+## About Me
+Hi, I'm Xealea, an amateur kernel Linux developer. I am currently studying at high school and exploring the world of Linux development in my free time.
 
+## Tools I Use
+- Gitpod for my code server
+- GPG for secure communication
+- Docker for containerization
+
+## Usage
+
+### Gitpod
+To start my Gitpod workspace, click on the following link:
 ```bash
 https://gitpod.io/#https://github.com/xealea/gitpod.git
 ```
 
-<b><p align="center">MY GPG PUB | IMPORT</p></b>
-
+### GPG
+To import my GPG public key, run the following command:
 ```bash
 curl -s https://github.com/xealea.gpg | gpg --import
 ```
 
-<b><p align="center">MY DOCKER | DEBIAN</p></b>
-
+### Docker
+To pull my Debian Docker image, run the following command:
 ```bash
-docker pull xealea/xea:01
+docker pull xealea/xea:02
 ```
+
+### Connect with Me
+- [GitHub](https://github.com/xealea)
+- [Telegram](https://t.me/xealea)
