@@ -1,5 +1,5 @@
 <kbd>
-<img src="https://i.postimg.cc/x8y41YzK/IMG-20230308-015813.jpg" />
+<img src="https://i.postimg.cc/WpfBF189/IMG-20230323-171536.jpg" />
 </kbd>
 
 ## About Me
