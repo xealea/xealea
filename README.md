@@ -1,7 +1,3 @@
-<kbd>
-<img src="https://i.postimg.cc/WpfBF189/IMG-20230323-171536.jpg" />
-</kbd>
-
 ## About Me
 Hi, I'm Xealea, an amateur kernel Linux developer. I am currently studying at high school and exploring the world of Linux development in my free time.
 
