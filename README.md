@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-I'm a programmer who loves to code in C. Here's a snippet of my favorite C code:
+I'm a amateur programmer who loves to code in C. Here's a snippet of my favorite C code:
 
 ```c
 #include <stdio.h>
