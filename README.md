@@ -1,7 +1,3 @@
-## Hello, World! 👋
-
-I'm a amateur programmer who loves to code in C. Here's a snippet of my favorite C code:
-
 ```c
 #include <stdio.h>
 
@@ -10,7 +6,6 @@ int main() {
   return 0;
 }
 ```
-Isn't it beautiful? 😍
 
 ## About Me 🙋‍♂️
 Hi, I'm Xealea, an amateur kernel Linux developer that love C code. I am currently studying at high school and exploring the world of Linux development in my free time.
