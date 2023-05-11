@@ -36,6 +36,6 @@ docker pull xealea/xea:02
 ```
 
 ### Connect with Me
-- [Email](xealea@proton.me)
+- [Email](xealea@xeadev.my.id)
 - [GitHub](https://github.com/xealea)
 - [Telegram](https://t.me/xealea)
